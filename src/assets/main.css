@@ -1,0 +1,6 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inter&family=Oswald:wght@300&family=Poppins&family=Roboto&family=Source+Sans+Pro:wght@200&display=swap');
+body {
+  background-image: url("https://images.pexels.com/photos/13086551/pexels-photo-13086551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+}
